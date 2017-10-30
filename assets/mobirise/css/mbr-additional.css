@@ -1436,3 +1436,29 @@ body {
   width: auto;
   max-width: 600px;
 }
+.cid-qzwVTy6QCy {
+  background-image: url("../../../assets/images/03.jpg");
+}
+.cid-qzwVTy6QCy .icons-media-container {
+  display: flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+  flex-direction: row;
+  -webkit-flex-direction: row;
+  flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  padding-top: 4rem;
+}
+.cid-qzwVTy6QCy .icons-media-container .mbr-iconfont {
+  font-size: 96px;
+  color: #ffffff;
+}
+.cid-qzwVTy6QCy .icons-media-container .icon-block {
+  padding-bottom: 1rem;
+}
+.cid-qzwVTy6QCy .mbr-text {
+  color: #ffffff;
+}
+.cid-qzwVTy6QCy .card {
+  padding-bottom: 1.5rem;
+}
